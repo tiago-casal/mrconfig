@@ -121,7 +121,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 # x 17 for addons starting with q
 # x 18 for addons starting with r
 00 18 * * fri $AddonTranslationUpdate readFeeds
-02 18 * * fri $AddonTranslationUpdate reportPasswords
+02 18 * * fri $AddonTranslationUpdate readonlyProfiles
 05 18 * * fri $AddonTranslationUpdate reportSymbols
 10 18 * * fri $AddonTranslationUpdate resourceMonitor
 15 18 * * fri $AddonTranslationUpdate reviewCursorCopier
